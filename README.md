@@ -1,16 +1,14 @@
-### Hi there 👋
+### Software Developer in progress ⏳
 
-<!--
-**luizhenriquegarciadarosa/luizhenriquegarciadarosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- - 🔭 I’m currently working on ... -->
+📓 I’m currently learning <img align="center" alt="Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+  <img align="center" alt="CSS" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"> <br>
+💬 Ask me about cars :car: and football :soccer: <br>
+:trophy: I speak Polish ⚪🔴
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/luizhenriquegarciadarosa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizhenriquegarciadarosa&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizhenriquegarciadarosa&layout=compact&langs_count=7&theme=blueberry"/> -->
+</div>
