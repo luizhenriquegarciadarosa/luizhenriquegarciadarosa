@@ -10,7 +10,6 @@
 :trophy: I speak Polish ⚪🔴<br>
 
 #
-
 <div>
   <a href="https://github.com/luizhenriquegarciadarosa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizhenriquegarciadarosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
